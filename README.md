@@ -1,5 +1,4 @@
 <h2>Lucas <img src="https://www.fg-a.com/flags/argentina-flag-animated.gif" width="25"></h2>
-<img align='right' src="https://media.discordapp.net/attachments/874385566400127097/1026499758413582496/B73DFA94-B062-416D-B751-7C4B8489ACC3.jpg?" width="230">
 <p><em>Fulltime developer in <a href="https://anticheat.site">Ocean Anticheat</a>
 </br>Ex Cheat detector in <a href="https://goldentool.net">Golden Anticheat [DISCONTINUED]</a>
 </br>CEO of <a href="https://discord.gg/screenshare">Screenshare Community</a> (Most known digital forensic discord in Minecraft community).
